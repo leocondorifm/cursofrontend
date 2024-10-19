@@ -109,11 +109,11 @@
             </form>-->
             <div class="dropstart">
               <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Traducir
+                Idioma
               </button>
               <ul class="dropdown-menu dropdown-menu-dark">
-                <li><a id="lengesp" class="dropdown-item" href="#" onclick="setLeng('esp')"><img src="/assets/img/lang/argentina.png" width="26px"> Español</a></li>
-                <li><a id="lengeng" class="dropdown-item" href="#" onclick="setLeng('eng')"><img src="/assets/img/lang/reino-unido.png" width="26px"> English</a></li>
+                <li><a id="lengesp" class="dropdown-item" href="#" onclick="setLeng('esp')"><img src="assets/img/lang/argentina.png" width="26px"> Español</a></li>
+                <li><a id="lengeng" class="dropdown-item" href="#" onclick="setLeng('eng')"><img src="assets/img/lang/reino-unido.png" width="26px"> English</a></li>
               </ul>
             </div>
         </div>
@@ -307,7 +307,7 @@
       }
       
       // Verificar el estado de la conexión cuando se carga la página
-      window.addEventListener('load', checkOnlineStatus);
+      //window.addEventListener('load', checkOnlineStatus);
       
       // Detectar cambios en la conexión
       window.addEventListener('online', () => {console.log('Online'); checkOnlineStatus(); });

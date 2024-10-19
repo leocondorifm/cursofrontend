@@ -1,3 +1,5 @@
+/* CONFIGURACION DE RUTAS */
+let route = '/cursofrontend/';
 
 function setLeng(idioma){
     let service = ''; 
@@ -18,9 +20,9 @@ function setLeng(idioma){
     // Utilizar fetch para obtener el archivo JSON
     //Carga un JSON de manera local
     //fetch('../../data/eng.json')
-    
+    console.log('/../../data/'+service+'.json');
     fetch('https://leocondori.com.ar/api/setup/'+service+'.php')
-    //fetch('../../data/'+service+'.json')
+    //fetch(route+'data/'+service+'.json')
     .then(response => {
 
         if (!response.ok) {
@@ -75,16 +77,16 @@ function setLeng(idioma){
     //console.log('/assets/img/portfolio/'+data.header.portfolio0.img0);
     //console.log('assets/img/portfolio/'+data.header.portfolio0.img0);
     //console.log( $("#imgport0").attr('src') ); Conocer el valor de SRC
-    $("#imgport0").attr('src','/assets/img/portfolio/'+data.header.portfolio0.img0);
+    $("#imgport0").attr('src','assets/img/portfolio/'+data.header.portfolio0.img0);
 
     $("#p2-1").html(data.header.portfolio1.tex0);
     $("#p2-2").html(data.header.portfolio1.text1);
-    $("#imgport1").attr('src','/assets/img/portfolio/'+data.header.portfolio1.img0);
+    $("#imgport1").attr('src','assets/img/portfolio/'+data.header.portfolio1.img0);
     //console.log(data.header.portfolio1.text1);
 
     $("#p3-1").html(data.header.portfolio2.tex0);
     $("#p3-2").html(data.header.portfolio2.text1);
-    $("#imgport2").attr('src','/assets/img/portfolio/'+data.header.portfolio2.img0);
+    $("#imgport2").attr('src','assets/img/portfolio/'+data.header.portfolio2.img0);
     /**
      * &copy; 2017–2024 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>
      */
