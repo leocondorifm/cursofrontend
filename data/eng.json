@@ -1,0 +1,75 @@
+{
+    "header": {
+      "txtlogo": "TECH.CV",
+      "sec1": "Studies",
+      "sec2": "Experience",
+      "sec3": "Portfolio",
+      "idiomas": {
+        "lengesp": "Español nativo",
+        "lengeng": "Inglés Level 2",
+        "lengfr": "Francés 1"
+      },
+      "btn-search": "Look for...",
+      "estudios0": {
+        "img0": "assets/img/banner/banner1.png",
+        "tex0": "HTML is the basis and structure",
+        "text1": "HTML, acronym in English for HyperText Markup Language, refers to the markup language used in the creation of web pages.",
+        "textbtn": "Read more"
+      },
+      "estudios1": {
+        "img0": "assets/img/banner/banner2.png",
+        "tex0": "CSS3, also known as Cascading Style Sheets Level 3",
+        "text1": "HTML, acronym in English for HyperText Markup Language, refers to the markup language used in the creation of web pages.",
+        "text-btn": "Read more"
+      },
+      "estudios2": {
+        "img0": "assets/img/banner/banner3.png",
+        "tex0": "JavaScript is a scripting language",
+        "text1": "JavaScript is an interpreted programming language, a dialect of the ECMAScript standard.",
+        "text-btn": "Read more"
+      },
+      "experiencia0": {
+        "img0": "google.png",
+        "tex0": "Design Manager",
+        "text1": "Responsible for branding and brand development. Implementation of new brand.",
+        "text-btn": "See on Linkedin »"
+      },
+      "experiencia1": {
+        "img0": "microsoft.jpg",
+        "tex0": "Software Development",
+        "text1": "Development head. Implementation of new technologies, AI prototypes.",
+        "text-btn": "See on Linkedin »"
+      },
+      "experiencia2": {
+        "img0": "meta.png",
+        "tex0": "Head of Development",
+        "text1": "AI implementation in ads platform. Development of new products.",
+        "text-btn": "See on Linkedin »"
+      },
+      "portfolio0": {
+        "img0": "portfolio0.png",
+        "tex0": "Cafe Martinez",
+        "text1": "Ecommerce and website development for Café Martinez.",
+        "text-btn": "See online »"
+      },
+      "portfolio1": {
+        "img0": "portfolio1.png",
+        "tex0": "Management system",
+        "text1": "Management systems for accounting study.",
+        "text-btn": "See online »"
+      },
+      "portfolio2": {
+        "img0": "portfolio2.png",
+        "tex0": "Ecommerce, tienda de zapatos",
+        "text1": "Ecommerce, shoe store",
+        "text-btn": "See online »"
+      },
+      "footer": {
+        "txt0": "© 2024",
+        "txt1": "Free course, Argentina Humana. ·",
+        "txt2": "Privacy",
+        "txt3": "Terms",
+        "txt4": "go up"
+      }
+    }
+  }

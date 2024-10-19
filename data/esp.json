@@ -1,0 +1,77 @@
+{
+    "header": {
+      "txtlogo": "TECH.CV",
+      "sec1": "Estudios",
+      "sec2": "Experiencia",
+      "sec3": "Porfolio",
+      "idiomas": {
+        "lengesp": "Español nativo",
+        "lengeng": "Inglés Level 2",
+        "lengfr": "Francés 1"
+      },
+      "btn-search":"Buscar...",
+      "estudios0": {
+        "img0": "assets/img/banner/banner1.png",
+        "tex0": "HTML es la base y estructura",
+        "text1": "HTML, acrónimo en inglés de HyperText Markup Language, hace referencia al lenguaje de marcado utilizado en la creación de páginas web.",
+        "textbtn": "Leer más"
+      },
+      "estudios1": {
+        "img0": "assets/img/banner/banner2.png",
+        "tex0": "CSS3, también conocido como Cascading Style Sheets Level 3 ",
+        "text1": "HTML, acrónimo en inglés de HyperText Markup Language, hace referencia al lenguaje de marcado utilizado en la creación de páginas web.",
+        "textbtn": "Leer más"
+      },
+      "estudios2": {
+        "img0": "assets/img/banner/banner3.png",
+        "tex0": "JavaScript es un lenguaje de secuencias de comandos",
+        "text1": "JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript.",
+        "textbtn": "Leer más"
+      },
+      "experiencia0": {
+        "img0": "google.png",
+        "tex0": "Jefe de Diseño",
+        "text1": "Responsable de branding y desarrollo de marca. Implementación de nueva marca.",
+        "textbtn": "Ver en Linkedin &raquo;"
+      },
+      "experiencia1": {
+        "img0": "microsoft.jpg",
+        "tex0": "Desarrollo de Software",
+        "text1": "Jefatura de desarrollo. Implementación de nuevas tecnologías, prototipos IA.",
+        "textbtn": "Ver en Linkedin &raquo;"
+      },
+      "experiencia2": {
+        "img0": "meta.png",
+        "tex0": "Jefe de desarrollo",
+        "text1": "Implementación de IA en plataforma ads. Desarrollo de nuevos productos.",
+        "textbtn": "Ver en Linkedin &raquo;"
+      },
+      "portfolio0": {
+        "img0": "portfolio0.png",
+        "tex0": "Jefe de desarrollo",
+        "text1": "Implementación de IA en plataforma ads. Desarrollo de nuevos productos.",
+        "text-btn": "Ver en Linkedin &raquo;"
+      },
+      "portfolio1": {
+        "img0": "portfolio1.png",
+        "tex0": "Jefe de desarrollo",
+        "text1": "Implementación de IA en plataforma ads. Desarrollo de nuevos productos.",
+        "text-btn": "Ver en Linkedin &raquo;"
+      },
+      "portfolio2": {
+        "img0": "portfolio2.png",
+        "tex0": "Jefe de desarrollo",
+        "text1": "Implementación de IA en plataforma ads. Desarrollo de nuevos productos.",
+        "text-btn": "Ver en Linkedin &raquo;"
+      },
+      "footer":{
+        "txt0":"&copy; 2024",
+        "txt1":"Curso gratuito, Argentina Humana. &middot;",
+        "txt2":"Privacy",
+        "txt3":"Terms",
+        "txt4":"Subir"
+      }
+
+    }
+
+}
